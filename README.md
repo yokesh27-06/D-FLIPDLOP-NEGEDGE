@@ -53,9 +53,12 @@ RegisterNumber:
 */
 
 **RTL LOGIC FOR FLIPFLOPS**
+![Screenshot 2024-11-19 142728](https://github.com/user-attachments/assets/f541625e-07cd-4a4c-861e-b868ceb482bb)
 
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
+![Screenshot 2024-11-19 143102](https://github.com/user-attachments/assets/5b94e478-92c4-41be-a9fd-22e4c786f8de)
+
 
 
 **RESULTS**
