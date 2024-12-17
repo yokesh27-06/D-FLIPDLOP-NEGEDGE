@@ -62,3 +62,4 @@ RegisterNumber:
 
 
 **RESULTS**
+The d-flipflop are  the output is verified.
